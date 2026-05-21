@@ -1,0 +1,6 @@
+{
+  "name": "PulsePlay AI",
+  "description": "An autonomous AI-powered second-screen IPL cricket experience that reacts ball-by-ball with dynamic insights, real-time momentum swings, animated polls, and adaptive personality commentary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
