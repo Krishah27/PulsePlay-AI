@@ -110,20 +110,7 @@ Momentum + Poll + Insight Engine
             ↓
 Real-Time UI Updates
 
-# 🌟 Built With Passion For Cricket Fans
-
-PulsePlay AI was built to make live cricket feel more emotional, immersive, chaotic, intelligent, and unforgettable.
-
-Not just another score app.  
-Not just another AI chatbot.
-
-But an autonomous AI companion that celebrates, panics, analyzes, hypes, memes, and experiences every ball alongside the fan.
-
-Because cricket isn’t just watched.
-
-It’s felt. 🏏✨
-
-## 💙 Thanks For Visiting PulsePlay AI
+💙 Thanks For Visiting PulsePlay AI
 
 If this project made you smile, laugh, or feel the pressure of a final over — then the mission was successful.
 
